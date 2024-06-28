@@ -2,6 +2,7 @@
 - 👀 I’m student in FAST NUCES 
 - 🌱 I’m currently doing my Bachelors in Data Science
 - Done a few projects related to ML and Database Management
+- have a vegetable friend
 
 
 <!---
